@@ -1,4 +1,4 @@
-![Resolut Banner](images/banner.png)
+![Resolut Banner](./../images/banner.png)
 
 In today’s music industry, rights holders navigate a landscape of spreadsheets, email threads and dispersed metadata sources, which makes conflict resolution slow, error prone and expensive. Resolut provides a unified platform that centralizes every claim, document and data source in one secure workspace, eliminating operational silos and scaling with catalogs of any size ￼. The platform integrates chain of title records and metadata with real time conflict monitoring to deliver clarity and control at every stage ￼. Guided workflows automate routine tasks and audit logs record each action to ensure compliance readiness and reduce legal risk ￼.
 
@@ -24,5 +24,5 @@ https://www.resolut.media/
 
 © 2025 Resolut, LLC. All rights reserved.
 
-![Resolut Banner](images/banner_lower.png)
+![Resolut Banner](./../images/banner_lower.png)
 
