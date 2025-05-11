@@ -1,19 +1,28 @@
+![Resolut Banner](images/banner.png)
+
+In today’s music industry, rights holders navigate a landscape of spreadsheets, email threads and dispersed metadata sources, which makes conflict resolution slow, error prone and expensive. Resolut provides a unified platform that centralizes every claim, document and data source in one secure workspace, eliminating operational silos and scaling with catalogs of any size ￼. The platform integrates chain of title records and metadata with real time conflict monitoring to deliver clarity and control at every stage ￼. Guided workflows automate routine tasks and audit logs record each action to ensure compliance readiness and reduce legal risk ￼.
+
+## ↓ Mission
+
+Resolut was founded in Nashville in 2024 to solve the persistent challenge of manual music copyright conflict resolution ￼. Where teams once toggled between multiple editing tools and email platforms to resolve disputes, Resolut offers a single source of truth. The platform supports configurable workflows, permission controls and real time alerts so that teams can react swiftly to new or recurring issues ￼. Secure access controls and encrypted document storage protect sensitive legal records while preserving an immutable audit trail for every change ￼.
+
+## ↓ Key Benefits
+	•	Centralized repository for catalog metadata and dispute documentation ￼
+	•	Configurable resolution workflows that guide users from claim intake to final agreement ￼
+	•	Real time notifications for conflict updates and pending actions ￼
+	•	Auditable chain of title and version history for full transparency ￼
 
 
-Resolut is a semi-stealth startup offering an innovative platform to manage and resolve music copyright issues at scale. In an industry undergoing seismic shifts—where AI developers face scrutiny over unlicensed use of creative works—rights holders are demanding greater transparency and control. Traditional licensing frameworks, such as those established under the Music Modernization Act of 2018, struggle to accommodate rapid streaming growth and emerging AI use cases. Meanwhile, researchers highlight a chronic shortage of centralized, high-quality music metadata, impeding transparent rights tracking at the scale required by today’s catalogs. Resolut addresses these challenges by combining AI-driven analytics, centralized metadata orchestration, and streamlined dispute workflows in a unified, user-friendly environment.
+## ↓ Culture and Team -  [Get in Touch](https://www.resolut.media/)
 
-# Overview
+Our team combines expertise in software engineering, music administration and data management to deliver a platform built for rights holders and industry professionals. We value collaboration, precision and a user first approach in everything we build ￼.
 
-At Resolut, our mission is to make rights management effortless for music professionals by providing a single interface for all ownership verification and conflict resolution tasks. Powered by next-generation AI, our platform transforms dense contracts and fragmented ownership logs into clear, actionable summaries. By focusing exclusively on music copyright resolution, we deliver a level of precision that surpasses general-purpose legal or licensing tools.
+## ↓ More Info
 
-# Key Benefits
-	•	Scale with confidence: Handle catalogs of any size and geographic scope without additional overhead
-	•	Enhance transparency: Maintain an auditable chain-of-title record for every asset, ensuring every transfer is documented and searchable ￼
-	•	Reduce risk: Leverage automated conflict detection to flag potential disputes before they escalate, keeping projects on track and in compliance
-
-Get in Touch
-
-We’re in closed beta and selectively onboarding rights holders, labels, and integration partners. To learn more or request access, visit:
+We're in closed beta and selectively onboarding rights holders, labels, and integration partners. To learn more or request access, visit:
 https://www.resolut.media/
 
 © 2025 Resolut, LLC. All rights reserved.
+
+![Resolut Banner](images/banner_lower.png)
+
